@@ -175,6 +175,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)System\IObserver.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)System\IProgress.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)System\Int16.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)System\StringSpanHelpers.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)System\Int32.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)System\Int64.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)System\Lazy.cs" />
